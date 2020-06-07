@@ -61,5 +61,5 @@ def add_s(array)
       word = "s"
     end
   end
-end    
+end
 add_s(["hand", "feet", "knee", "table"])
