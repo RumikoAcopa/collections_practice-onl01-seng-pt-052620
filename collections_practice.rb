@@ -8,6 +8,8 @@ def sort_array_desc(array)
     0
   elsif c > b
     1
+  elsif b < c
+    -1
   end
 end
 end
